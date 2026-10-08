@@ -1,0 +1,6 @@
+#ifndef ADVANCEDICT_SIGNAL_DEFINITIONS_MQH
+#define ADVANCEDICT_SIGNAL_DEFINITIONS_MQH
+
+#include <AdvancedICT/Common/Types.mqh>
+
+#endif
